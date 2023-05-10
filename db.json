@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Bank Holiday",
+      "day": "28 may",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Retro from Makers at 5:00",
+      "day": "12 may",
+      "reminder": true
+    },
+    {
+      "text": "Buy more chocolate",
+      "day": "TODAY",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "sleep",
+      "day": "now",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
